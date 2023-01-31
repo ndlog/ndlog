@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
-<img align="right" alt="meomeo" width="400" src="https://drive.google.com/drive/u/0/folders/1pS7lKdCt6h6XyY7sLbXSey5kCuf60DMI">
+<img align="right" alt="meomeo" width="300" src="https://user-images.githubusercontent.com/102477140/215766997-185d80e8-ffc4-451d-89f0-95953ce34995.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndlog&label=Profile%20views&color=0e75b6&style=flat" alt="ndlog" /> </p>
 
