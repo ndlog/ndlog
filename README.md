@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ndlong.300802@gmail.com**
 
-- ⚡ Fun fact **Open and amiable. I enjoy learning about new technology & I love cat 😼.**
+- ⚡ Fun fact **Open and amiable. I enjoy learning about new technology & I love cats 😼.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
